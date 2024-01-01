@@ -443,7 +443,7 @@ i:hover{
   padding-bottom: 2em;
 }
 .fotter-container{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   max-width: 60em;
   margin-inline: auto;
   display: flex;
